@@ -32,16 +32,25 @@ Post Installation
 
 == Frequently Asked Questions ==
 
-* Have any suggestions we should include in the next update? Email: miks.latvis@gmail.com
+= How do I show the list of posts? =
+
+List of posts appears automatically by all the posts included in Post Series.
 
 == Screenshots == 
 
+1. This is a new edit box, which shows up in a right sidebar by your post.
+2. This is how list of posts looks like after some posts are published.
+
 == Change log ==
 
-= Post Series 0.4 - 30/03/2012 =
-* Plugin ready with minimum features
+= 0.4.1 - 30/03/2012 =
+* Minor changes to plugin Read me
+* Added plugin screenshots
 
-= Post Series 0.3 - 16/03/2012 =
+= 0.4 - 30/03/2012 =
+* Plugin published to WordPress plugin directory
+
+= 0.3 - 16/03/2012 =
 * Plugin ready with minimum features
 
 == Upgrade Notice ==

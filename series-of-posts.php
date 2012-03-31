@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Post Series
-Plugin URI: http://mikslatvis.com
+Plugin URI: http://mikslatvis.com/wordpress-plugins/post-series/
 Description: Allows you to add posts to a series and show the list by the posts.
-Version: 0.4
+Version: 0.4.1
 Author: Miks Latvis
 Author URI: http://mikslatvis.com
 License: GPL2
