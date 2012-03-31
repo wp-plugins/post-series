@@ -1,21 +1,21 @@
 === Post Series ===
 Contributors: mikslatvis
+Donate link: http://mikslatvis.com/wordpress-plugins/post-series/
 Tags: post series, series
 Requires at least: 3.0
 Tested up to: 3.3.1
 Stable tag: trunk
 
-Allows you to add posts to a series and show the list by the posts.
+Add one or multiple posts to a post series, and Post Series will automatically show simple post list by all posts in the series.
  
 == Description ==
-WordPress plugin which adds functionality to make series of posts. It also displays a list of those posts at the beginning of all posts in this series.
+Post series plugin adds functionality to make series of posts. It also displays a list of those posts at the beginning of all posts in this series.
 
 = Features =
 
 * Add post to a one or multiple post series.
 * Display list of the posts in the series at the beginning of the post.
 * Extra functionality will follow.
-* Have any suggestions we should include in the next update? Email: miks.latvis@gmail.com
 
 == Installation ==
 
@@ -32,9 +32,16 @@ Post Installation
 
 == Frequently Asked Questions ==
 
+* Have any suggestions we should include in the next update? Email: miks.latvis@gmail.com
+
 == Screenshots == 
 
 == Change log ==
 
+= Post Series 0.4 - 30/03/2012 =
+* Plugin ready with minimum features
+
 = Post Series 0.3 - 16/03/2012 =
 * Plugin ready with minimum features
+
+== Upgrade Notice ==
