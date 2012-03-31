@@ -43,7 +43,7 @@ List of posts appears automatically by all the posts included in Post Series.
 
 == Change log ==
 
-= 0.4.1 - 30/03/2012 =
+= 0.4.1 - 31/03/2012 =
 * Minor changes to plugin Read me
 * Added plugin screenshots
 
