@@ -43,6 +43,10 @@ List of posts appears automatically by all the posts included in Post Series.
 
 == Change log ==
 
+= 0.4.2 - 08/04/2012 =
+* Fixed: CSS file
+* Post series are now shown only by the posts they where added to
+
 = 0.4.1 - 31/03/2012 =
 * Minor changes to plugin Read me
 * Added plugin screenshots

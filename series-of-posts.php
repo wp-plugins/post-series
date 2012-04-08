@@ -3,7 +3,7 @@
 Plugin Name: Post Series
 Plugin URI: http://mikslatvis.com/wordpress-plugins/post-series/
 Description: Allows you to add posts to a series and show the list by the posts.
-Version: 0.4.1
+Version: 0.4.2
 Author: Miks Latvis
 Author URI: http://mikslatvis.com
 License: GPL2
@@ -39,7 +39,7 @@ function series_of_posts_filter( $content ) {
         
         {
 
-$terms = get_terms('series_of_posts');
+$terms = get_the_terms($post->ID, 'series_of_posts');
  $count = count($terms);
  if ( $count > 0 ){
      echo "<div id='series-of-posts-box'><ul>";

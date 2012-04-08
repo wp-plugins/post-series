@@ -14,12 +14,12 @@ list-style:none;
 box-shadow: 2px 2px 3px 0px #a7a7a7; 
 }
 
-#series-of-posts .one-series {
+#series-of-posts-box .one-series {
 margin-bottom: 10px;
 font-weight: bold;
 }
 
-#series-of-posts .one-link {
+#series-of-posts-box .one-link {
 margin-bottom: 5px;
 line-height: normal;
 font-size: 14px;
