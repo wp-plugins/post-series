@@ -43,6 +43,9 @@ List of posts appears automatically by all the posts included in Post Series.
 
 == Change log ==
 
+= 0.4.3 - 09/04/2014 =
+* Fixed order of posts (now sorted by date from oldest to newest post)
+
 = 0.4.2 - 08/04/2012 =
 * Fixed: CSS file
 * Post series are now shown only by the posts they where added to
