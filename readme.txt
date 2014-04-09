@@ -4,7 +4,7 @@ Donate link: http://mikslatvis.com/wordpress-plugins/post-series/
 Tags: post series, series
 Requires at least: 3.0
 Tested up to: 3.8.2
-Stable tag: trunk
+Stable tag: 0.4.3
 
 Add one or multiple posts to a post series, and Post Series will automatically show simple post list by all posts in the series.
  
