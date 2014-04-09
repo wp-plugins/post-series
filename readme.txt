@@ -3,7 +3,7 @@ Contributors: mikslatvis
 Donate link: http://mikslatvis.com/wordpress-plugins/post-series/
 Tags: post series, series
 Requires at least: 3.0
-Tested up to: 3.3.1
+Tested up to: 3.8.2
 Stable tag: trunk
 
 Add one or multiple posts to a post series, and Post Series will automatically show simple post list by all posts in the series.
@@ -45,6 +45,7 @@ List of posts appears automatically by all the posts included in Post Series.
 
 = 0.4.3 - 09/04/2014 =
 * Fixed order of posts (now sorted by date from oldest to newest post)
+* Tested for up to WordPress 3.8.2
 
 = 0.4.2 - 08/04/2012 =
 * Fixed: CSS file
