@@ -49,6 +49,8 @@ $terms = get_the_terms($post->ID, 'series_of_posts');
        $series_of_posts = $term->slug; 
 		
 		$args = array(
+        'orderby' => 'date',
+		'order' => 'ASC',
 	'tax_query' => array(
 		array(
 			'taxonomy' => 'series_of_posts',
