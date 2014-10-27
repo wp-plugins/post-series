@@ -4,7 +4,7 @@ Donate link: http://mikslatvis.com/wordpress-plugins/post-series/
 Tags: post series, series
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 0.4.4
+Stable tag: 0.5
 
 Add one or multiple posts to a post series, and Post Series will automatically show simple post list by all posts in the series.
  
@@ -42,6 +42,10 @@ List of posts appears automatically by all the posts included in Post Series.
 2. This is how list of posts looks like after some posts are published.
 
 == Change log ==
+
+= 0.5 - 27/10/2014 =
+* Added basic shortcode functionality
+* Basic code organization
 
 = 0.4.4 - 27/10/2014 =
 * Tested for up to WordPress 4.0
