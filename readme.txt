@@ -44,7 +44,7 @@ List of posts appears automatically by all the posts included in Post Series.
 
 == Change log ==
 
-= 0.5.1 - 07/06/2015 =
+= 0.5.1 - 06/06/2015 =
 * Tested for up to WordPress 4.2.2
 * Added plugin icon
 
