@@ -3,8 +3,8 @@ Contributors: mikslatvis
 Donate link: http://mikslatvis.com/wordpress-plugins/post-series/
 Tags: post series, series
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 0.5
+Tested up to: 4.2.2
+Stable tag: 0.5.1
 
 Add one or multiple posts to a post series, and Post Series will automatically show simple post list by all posts in the series.
  
@@ -25,6 +25,7 @@ Post series plugin adds functionality to make series of posts. It also displays 
 4. You are done – you can now go into a post and place it into a post series.
 
 Post Installation
+
 1. Go and edit the post you wand to include in a post series
 2. Add the name of the post series you want to use.
 3. Update post and have a look at you new post series.
@@ -42,6 +43,10 @@ List of posts appears automatically by all the posts included in Post Series.
 2. This is how list of posts looks like after some posts are published.
 
 == Change log ==
+
+= 0.5.1 - 07/06/2015 =
+* Tested for up to WordPress 4.2.2
+* Added plugin icon
 
 = 0.5 - 27/10/2014 =
 * Added basic shortcode functionality
